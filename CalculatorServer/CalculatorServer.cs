@@ -44,6 +44,9 @@ namespace CalculatorServer
             byte[] data = transport.Recv(256, ref sender);
             if (data != null)
             {
+                if (data.Length != (9))
+                    throw new Exception();
+
                 byte gameCommand = data[0];
                 if (commandsTable.ContainsKey(gameCommand))
                 {

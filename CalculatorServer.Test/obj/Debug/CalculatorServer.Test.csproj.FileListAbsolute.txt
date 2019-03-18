@@ -16,3 +16,21 @@ C:\Users\Kayoreko\Desktop\gitRepos\CalculatorServer\CalculatorServer.Test\obj\De
 C:\Users\Kayoreko\Desktop\gitRepos\CalculatorServer\CalculatorServer.Test\obj\Debug\CalculatorServer.Test.csproj.CopyComplete
 C:\Users\Kayoreko\Desktop\gitRepos\CalculatorServer\CalculatorServer.Test\obj\Debug\CalculatorServer.Test.dll
 C:\Users\Kayoreko\Desktop\gitRepos\CalculatorServer\CalculatorServer.Test\obj\Debug\CalculatorServer.Test.pdb
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\bin\Debug\nunit.engine.dll
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\bin\Debug\nunit.engine.api.dll
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\bin\Debug\CalculatorServer.Test.dll.config
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\bin\Debug\CalculatorServer.Test.dll
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\bin\Debug\CalculatorServer.Test.pdb
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\bin\Debug\CalculatorServer.exe
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\bin\Debug\nunit.framework.dll
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\bin\Debug\CalculatorServer.pdb
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\bin\Debug\CalculatorServer.exe.config
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\bin\Debug\nunit.framework.pdb
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\bin\Debug\nunit.framework.xml
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\obj\Debug\CalculatorServer.Test.csprojAssemblyReference.cache
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\obj\Debug\CalculatorServer.Test.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\obj\Debug\CalculatorServer.Test.csproj.CopyComplete
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\obj\Debug\CalculatorServer.Test.dll
+C:\Users\loren\Desktop\git pull\CalculatorServer.Test\obj\Debug\CalculatorServer.Test.pdb

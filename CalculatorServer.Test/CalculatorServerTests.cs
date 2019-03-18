@@ -37,6 +37,38 @@ namespace CalculatorServer.Test
             Assert.That(() => transport.ClientDequeue(), Throws.Exception);
         }
 
+        [Test]
+        public void SendingMoreBytes()
+        {
+            float firstNumber = 5f;
+            float secondNumber = 5f;
+            float notNecessaryNumber = 5f;
+            byte sumCommand = 0;
+
+            FakeData packet = new FakeData();
+            packet.data = new FakePacket(sumCommand, firstNumber, secondNumber, notNecessaryNumber).GetData();
+            packet.endPoint = client;
+
+            transport.ClientEnqueue(packet);
+
+            Assert.That(() => server.SingleStep(), Throws.Exception);
+        }
+
+        [Test]
+        public void SendingLessBytes()
+        {
+            float firstNumber = 5f;
+            byte sumCommand = 0;
+
+            FakeData packet = new FakeData();
+            packet.data = new FakePacket(sumCommand, firstNumber).GetData();
+            packet.endPoint = client;
+
+            transport.ClientEnqueue(packet);
+
+            Assert.That(() => server.SingleStep(), Throws.Exception);
+        }
+
         //SumTesting
         [Test]
         public void CheckSumWithPositiveNumbers()
